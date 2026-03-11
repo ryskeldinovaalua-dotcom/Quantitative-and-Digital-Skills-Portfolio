@@ -1,0 +1,14 @@
+Milestone 2: Customer Base Audit
+
+Overview
+In this project, I performed a quantitative audit of a customer database to evaluate acquisition and retention trends. The analysis focused on understanding customer life cycles and the stability of the revenue base.
+
+Skills Demonstrated:
+Data Auditing: Cleaning and structuring large transactional datasets for analysis.
+Cohort Analysis: Segmenting customers by their first purchase date to track behavior over time.
+KPI Calculation: Calculating Retention Rate, Churn Rate, and New Customer Acquisition.
+Advanced Excel: Using Pivot Tables and Grouping functions to visualize growth patterns.
+
+Files in Folder:
+`Customer_Base_Audit.xlsx` - Analytical file with pivot tables and calculations.
+*`Customer_Audit_Synopsis.pdf` - Formal summary and theoretical application.
